@@ -1,3 +1,9 @@
+# Testing batch files
+*.bat
+
+# .VS folder
+.VS
+
 # Prerequisites
 *.d
 

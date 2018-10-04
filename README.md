@@ -1,2 +1,2 @@
 # BPTerminalGraphics
-A Header-Only Graphics lib for the console window.
+A C++ Header-Only Graphics lib for the console window.
